@@ -3,8 +3,7 @@ html {
     background-color: grey;
     color: yellow;
     font-size: 16px;
-    textIndent: 10px;
-    activeStyle: blue;
+    text-indent: 10px;
 }
 /* Link Styling */
 a:link {
