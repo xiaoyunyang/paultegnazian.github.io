@@ -1,0 +1,21 @@
+/* General Page Styling */
+html {
+    background-color: grey;
+    color: yellow;
+    font-size: 16px;
+    textIndent: 10px;
+    activeStyle: blue;
+}
+/* Link Styling */
+a:link {
+    color: orange;
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: yellow;
+}
