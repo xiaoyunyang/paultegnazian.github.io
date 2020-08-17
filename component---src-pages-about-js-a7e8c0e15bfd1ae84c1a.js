@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"3XHS":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return o}));var a=n("q1tI"),r=n.n(a);function l(e){return r.a.createElement("h1",null,prop.headerText)}function o(){return r.a.createElement("div",{style:{color:"yellow",background:"grey"}},r.a.createElement(l,{headerText:"About Paul Tegnazian"}),r.a.createElement(l,{headerText:"Its cool, brosky"}),r.a.createElement("p",null,"Sweet, I am making a local web page!"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-a7e8c0e15bfd1ae84c1a.js.map
