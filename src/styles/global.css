@@ -1,15 +1,16 @@
-/* General Page Styling */
+/* Global Stuff */
+/* Page Styling */
 html {
     background-color: grey;
     color: yellow;
     font-size: 16px;
     text-indent: 10px;
 }
-/* Link Styling */
+/* General Link Styling */
 a:link {
     color: orange;
 }
-a:visited {
+a:visited{
     color: orange;
 }
 a:hover {
