@@ -1,6 +1,6 @@
 import React from "react"
 import Header from "../components/header"
-import "./styles/global.css";
+import "./global.css";
 
 export default function Home() 
 {
